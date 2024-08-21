@@ -1,0 +1,24 @@
+{
+  "name": "currency-data",
+  "version": "1.0.0",
+  "description": "This package contains the data for world currencies, including currency name, code, symbol and the code of the country where the currency is being used",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatejPlaskon/currency-data.git"
+  },
+  "keywords": [
+    "currencies",
+    "countries",
+    "data"
+  ],
+  "author": "MatejPlaskon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatejPlaskon/currency-data/issues"
+  },
+  "homepage": "https://github.com/MatejPlaskon/currency-data#readme"
+}
