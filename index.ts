@@ -1,4 +1,11 @@
-export const currencies = [
+interface CurrencyData {
+    symbol: string
+    name: string
+    code: string
+    countryCode: string
+}
+
+export const currencies: CurrencyData[] = [
     {
         symbol: '€',
         name: 'Euro',
